@@ -1,14 +1,16 @@
 ---
+title: "About"
 layout: page
-title: Hakkımda
-permalink: /about/
 ---
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Merhaba Ben Burak!
+# Hakkımda
+
+Merhaba ben Burak!
 
 ### Daha Fazla Bilgi Yok mu?
 
-Kısaca Yazılım sektöründe çalışan hayat boyu öğrenci kalacak bir kişilik. 
+Kısaca yazılım sektöründe çalışan hayat boyu öğrenci olarak kalacak bir kişilik. 
 
 ### İletişim Kur
 
@@ -16,4 +18,4 @@ Kısaca Yazılım sektöründe çalışan hayat boyu öğrenci kalacak bir kişi
 
 ### Bu Sitede Neyin Nesi ?
 
-[Jekyll](https://jekyllrb.com) Framework ve [Github Pages](https://pages.github.com/) kullanan kisisel bir site
+[Jekyll](https://jekyllrb.com) Framework ve [Github Pages](https://pages.github.com/) kullanan kisisel web sayfasıdır
