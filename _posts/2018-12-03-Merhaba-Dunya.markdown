@@ -5,7 +5,7 @@ date: 2018-12-03 12:00
 image: /assets/images/profile.jpg
 headerImage: false
 tag:
-- genel
+- general
 star: true
 category: blog
 author: brkzr
