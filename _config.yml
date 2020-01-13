@@ -8,7 +8,7 @@ description: A blog about software,technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/burak_ozer.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -58,7 +58,7 @@ authors:
         name: Burak Özer
         bio: Software Developer in Istanbul
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/burak_ozer.jpg
         twitter: brkzr
 
 # do you want a larger site? change the option below
