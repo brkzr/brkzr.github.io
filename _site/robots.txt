@@ -1,2 +1,3 @@
+Sitemap: https://burakozer.com/sitemap.xml
 User-agent: *
 Disallow:
