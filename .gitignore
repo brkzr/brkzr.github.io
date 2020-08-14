@@ -1,6 +1,8 @@
 .DS_Store
-_site/
+_site
 .sass-cache
 Gemfile.lock
+.bundle
+vendor/
 _config-dev.yml
 .editorconfig
