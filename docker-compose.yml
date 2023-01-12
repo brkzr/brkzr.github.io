@@ -2,8 +2,8 @@
   services:
     server:
       image: klakegg/hugo:ubuntu
-      command: server
+      command:  server -D
       volumes:
-        - "./website:/src"
+        - ".:/src"
       ports:
         - "1313:1313"
