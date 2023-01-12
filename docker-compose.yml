@@ -1,0 +1,9 @@
+  version: "3,9"
+  services:
+    server:
+      image: klakegg/hugo:ubuntu
+      command: server
+      volumes:
+        - "./website:/src"
+      ports:
+        - "1313:1313"

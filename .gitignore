@@ -1,8 +1,3 @@
 .DS_Store
-_site
-.sass-cache
-Gemfile.lock
-.bundle
-vendor/
-_config-dev.yml
-.editorconfig
+.hugo_build.lock
+resources/_gen

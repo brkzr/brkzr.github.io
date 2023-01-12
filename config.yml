@@ -1,0 +1,145 @@
+baseURL: "https://burakozer.com"
+title: Brkzr
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UUA-130278563-1
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Burak Özer
+  description: "A man who is a software engineer, tech lover and lifelong student"
+  keywords: [Blog, Tech, Bio, Burak Ozer,]
+  author: Brkzr
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: true
+  ShareButtons: ["linkedin", "twitter"] # To customize which share buttons to be enabled on page
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "favicon/Favicon-128.png"
+    favicon16x16: "favicon/Favicon-16.png"
+    favicon32x32: "favicon/favicon-32.png"
+    apple_touch_icon: "favicon/Favicon-16.png"
+    #safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Brkzr"
+    #icon: /apple-touch-icon.png
+    #iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Hello, I'm Burak Özer 👋
+    subtitle: "A man who is a software engineer, tech lover and lifelong student"
+    imageUrl: "images/burak_ozer.png"
+    imageWidth: 240
+    imageHeight: 240
+    imageTitle: burak_ozer
+    buttons:
+      - name: Cheer Up!
+        url: https://youtube.com/watch?v=jfKfPfyJRdk&feature=shares
+      # - name: Tags
+      #   url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hello, I'm Burak Özer 👋"
+    Content: "A man who is a software engineer, tech lover and lifelong student"
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/brkzr"
+    - name: twitter
+      url: "https://twitter.com/brkzr"
+    - name: linkedin
+      url: "https://linkedin.com/in/brkzr"
+    - name: spotify
+      url: "https://open.spotify.com/user/burak.ozer"
+    - name: instagram
+      url: "https://instagram.com/brkzr"
+    - name: email
+      url: "mailto:burak.ozerr@gmail.com"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # editPost:
+  #   URL: "https://github.com/brkzr/brkzr.guthub.io/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  # fuseOpts:
+  #   isCaseSensitive: false
+  #   shouldSort: true
+  #   location: 0
+  #   distance: 1000
+  #   threshold: 0.4
+  #   minMatchCharLength: 0
+  #   keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    # - identifier: about
+    #   name: About
+    #   url: /about/
+    #   weight: 10
+    - identifier: blog
+      name: Posts
+      url: /posts/
+      weight: 20
+
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: github
+      name: Github
+      url: https://github.com/brkzr/brkzr.github.io
+      weight: 40
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+    highlight:
+        # anchorLineNos: true
+        codeFences: true
+        guessSyntax: true
+        # lineNos: true
+        # noClasses: false
+        style: monokai
+
+
+disqusShortname: brkzr
