@@ -2,7 +2,7 @@
   services:
     server:
       image: klakegg/hugo:ubuntu
-      command:  server -D
+      command:  server
       volumes:
         - ".:/src"
       ports:
