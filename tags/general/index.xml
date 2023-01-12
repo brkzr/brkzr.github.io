@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>general on Brkzr</title>
+    <link>https://burakozer.com/tags/general/</link>
+    <description>Recent content in general on Brkzr</description>
+    <image>
+      <url>https://burakozer.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://burakozer.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Dec 2018 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Merhaba Dünya!</title>
+      <link>https://burakozer.com/posts/merhaba-dunya/</link>
+      <pubDate>Mon, 03 Dec 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://burakozer.com/posts/merhaba-dunya/</guid>
+      <description>Merhaba Dunya</description>
+    </item>
+    
+  </channel>
+</rss>
