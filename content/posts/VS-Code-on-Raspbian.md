@@ -17,7 +17,7 @@ description: Installing VS Code on Raspbian
 Yukarıda bahsettiğim işletim sistemleri için Jay (aka [Headmelted](https://github.com/headmelted)), süper bir [çalışma](https://github.com/headmelted/codebuilds) yapmış. Bu sayede; VS Code, bu sistemlere hızlı bir şekilde yüklenip kullanabiliyor.
 
 Öncelikle, sisteme doğru ve gerekli __GPG key__'i eklemek gerekiyor.
-```sh
+```bash
 wget https://packagecloud.io/headmelted/codebuilds/gpgkey -O - | sudo apt-key add -
 ```
 Sonrasında, VS Code'un şu komut ile yüklenmesi gerekmekte:
