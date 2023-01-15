@@ -9,7 +9,16 @@
       <link>https://burakozer.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 11 Apr 2019 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Jan 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux CLI Tips</title>
+      <link>https://burakozer.com/notes/linux/</link>
+      <pubDate>Sun, 15 Jan 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://burakozer.com/notes/linux/</guid>
+      <description>Linux CLI Tips</description>
+    </item>
+    
     <item>
       <title>Raspbian&#39;a Visual Studio Code Kurulumu</title>
       <link>https://burakozer.com/posts/vs-code-on-raspbian/</link>

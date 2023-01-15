@@ -9,7 +9,25 @@
       <link>https://burakozer.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 11 Apr 2019 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Jan 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CLI</title>
+      <link>https://burakozer.com/tags/cli/</link>
+      <pubDate>Sun, 15 Jan 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://burakozer.com/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://burakozer.com/tags/linux/</link>
+      <pubDate>Sun, 15 Jan 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://burakozer.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>tools</title>
       <link>https://burakozer.com/tags/tools/</link>
