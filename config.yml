@@ -117,19 +117,24 @@ menu:
     #   name: About
     #   url: /about/
     #   weight: 10
-    - identifier: blog
+    - identifier: posts
       name: Posts
       url: /posts/
       weight: 20
 
+    - identifier: notes
+      name: Notes
+      url: /notes/
+      weight: 30
+
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 30
+      weight: 40
     - identifier: github
       name: Github
       url: https://github.com/brkzr/brkzr.github.io
-      weight: 40
+      weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
