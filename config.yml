@@ -1,5 +1,5 @@
 baseURL: "https://burakozer.com"
-title: Brkzr
+title: Burak Özer
 paginate: 5
 theme: PaperMod
 
@@ -148,3 +148,8 @@ markup:
 
 
 disqusShortname: brkzr
+
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
