@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Tech, Bio, Burak Ozer,]
   author: Brkzr
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["burak_ozer.png"]
   DateFormat: "January 2 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -120,21 +120,21 @@ menu:
     - identifier: posts
       name: Posts
       url: /posts/
-      weight: 20
+      weight: 10
 
     - identifier: notes
       name: Notes
       url: /notes/
-      weight: 30
+      weight: 20
 
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 40
+      weight: 30
     - identifier: github
       name: Github
       url: https://github.com/brkzr/brkzr.github.io
-      weight: 50
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
