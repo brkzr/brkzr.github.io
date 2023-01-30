@@ -2,11 +2,7 @@
 layout: post
 title: "Raspbian'a Visual Studio Code Kurulumu"
 date: 2019-04-11T12:00:00+00:00
-#image: /assets/images/profile.jpg
-#headerImage: false
 tags: ["tools","VScode"]
-#star: true
-#category: blog
 author: brkzr
 description: Installing VS Code on Raspbian
 ---

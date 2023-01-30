@@ -1,13 +1,13 @@
 ---
 layout: note
-title: "Linux CLI Tips"
+title: "Linux CLI Cheat Sheet"
 date: 2023-01-15T12:00:00+00:00
-tags: ["Linux","CLI"]
+tags: ["Linux","CLI","CheatSheet"]
 author: "brkzr"
-description: Linux CLI Tips
+description: Linux CLI Cheat Sheet
 ---
 
-# Linux CLI Tips
+<!-- # Linux CLI Cheat Sheet -->
 ### Useful CLI Shortcus:
 
 CTRL + L  Clear CLI Screen  

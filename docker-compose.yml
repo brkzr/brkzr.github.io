@@ -2,7 +2,7 @@
   services:
     server:
       image: klakegg/hugo:ubuntu
-      command:  server
+      command:  server --disableFastRender
       volumes:
         - ".:/src"
       ports:
