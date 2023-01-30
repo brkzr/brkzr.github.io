@@ -1,5 +1,5 @@
 baseURL: "https://burakozer.com"
-title: Burak Özer
+title: Burak Özer (brkzr) | burakozer.com 
 paginate: 5
 theme: PaperMod
 
@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Burak Özer
-  description: "A man who is a software engineer, tech lover and lifelong student"
+  description: "A man who is a software engineer, tech enthusiast and lifelong student"
   keywords: [burak ozer,burak özer,brkzr,buraközer,burakozer,engineer,computer science,ytu,itu,blog,notes,tech,bio,personal blog,personal notes]
   author: Brkzr
   # author: ["Me", "You"] # multiple authors
@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hello, I'm Burak Özer 👋
-    subtitle: "A man who is a software engineer, tech lover and lifelong student"
+    subtitle: "A man who is a __software__ engineer, __tech__ enthusiast and lifelong __student__. Lives in __İstanbul__.📍 You can reach me through social media accounts and Email. 📧"
     imageUrl: "images/burak_ozer.png"
     imageWidth: 240
     imageHeight: 240
@@ -73,9 +73,9 @@ params:
       #   url: tags
 
   # home-info mode
-  homeInfoParams:
-    Title: "Hello, I'm Burak Özer 👋"
-    Content: "A man who is a software engineer, tech lover and lifelong student"
+  # homeInfoParams:
+  #   Title: "Hello, I'm Burak Özer 👋"
+  #   Content: "A man who is a software engineer, tech enthusiast and lifelong student.\nYou can reach me through social media accounts and email"
 
   socialIcons:
     - name: github
