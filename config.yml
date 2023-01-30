@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Burak Özer
   description: "A man who is a software engineer, tech lover and lifelong student"
-  keywords: [Blog, Tech, Bio, Burak Ozer,]
+  keywords: [burak ozer,burak özer,brkzr,buraközer,burakozer,engineer,computer science,ytu,itu,blog,notes,tech,bio,personal blog,personal notes]
   author: Brkzr
   # author: ["Me", "You"] # multiple authors
   images: ["burak_ozer.png"]
