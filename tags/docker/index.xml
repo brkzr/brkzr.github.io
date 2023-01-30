@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>CLI on Burak Özer</title>
-    <link>https://burakozer.com/tags/cli/</link>
-    <description>Recent content in CLI on Burak Özer</description>
+    <title>Docker on Burak Özer</title>
+    <link>https://burakozer.com/tags/docker/</link>
+    <description>Recent content in Docker on Burak Özer</description>
     <image>
       <url>https://burakozer.com/burak_ozer.png</url>
       <link>https://burakozer.com/burak_ozer.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 15 Jan 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/tags/cli/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Linux CLI Cheat Sheet</title>
-      <link>https://burakozer.com/notes/linux/</link>
-      <pubDate>Sun, 15 Jan 2023 12:00:00 +0000</pubDate>
-      
-      <guid>https://burakozer.com/notes/linux/</guid>
-      <description>Linux CLI Cheat Sheet</description>
-    </item>
-    
+    <lastBuildDate>Fri, 30 Dec 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker CLI Cheat Sheet</title>
       <link>https://burakozer.com/notes/docker-cheatsheet/</link>

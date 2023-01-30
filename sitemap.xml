@@ -57,6 +57,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://burakozer.com/tags/docker/</loc>
+    <lastmod>2022-12-30T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://burakozer.com/notes/docker-cheatsheet/</loc>
+    <lastmod>2022-12-30T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://burakozer.com/posts/</loc>
     <lastmod>2019-04-11T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
