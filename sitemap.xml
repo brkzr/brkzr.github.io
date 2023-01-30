@@ -97,11 +97,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://burakozer.com/archives/</loc>
+    <loc>https://burakozer.com/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://burakozer.com/categories/</loc>
+    <loc>https://burakozer.com/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
