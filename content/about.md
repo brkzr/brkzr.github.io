@@ -1,26 +1,22 @@
 ---
-title: "Hakkimda"
-layout: post-single
 comments: false
 disableShare: true
 hidemeta: true
-draft: true
+title: "Hakkımda"
+layout: "posts"
+url: "/about"
+summary: "about"
+ShowBreadCrumbs: false
 ---
 
 ![image](../burak_ozer.png#center)
 
 <!-- # Hakkımda -->
 
-Merhaba ben Burak!
+## Merhaba, ben Burak!👋
 
-### Daha Fazla Bilgi Yok mu?
-
-Kısaca yazılım sektöründe çalışan hayat boyu öğrenci olarak kalacak bir kişilik. 
+> Yazılım sektöründe çalışan, teknoloji aşığı, hayat boyu öğrenci olarak kalacak bir kişilik. 
 
 ### İletişim Kur
 
-[burak.ozerr@gmail.com](mailto:burak.ozerr@gmail.com)
-
-### Bu Sitede Neyin Nesi ?
-
-~~[Jekyll](https://jekyllrb.com)~~  Framework ve [Github Pages](https://pages.github.com/) kullanan kisisel web sayfasıdır
+[burak.ozerr[at]gmail.com](mailto:burak.ozerr@gmail.com)
