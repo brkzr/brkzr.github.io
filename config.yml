@@ -67,8 +67,8 @@ params:
     imageHeight: 240
     imageTitle: burak_ozer
     buttons:
-      - name: Cheer Up!
-        url: https://youtube.com/watch?v=jfKfPfyJRdk&feature=shares
+      - name: Continue to Notes!
+        url: /notes
       # - name: Tags
       #   url: tags
 
@@ -113,10 +113,6 @@ params:
   #   keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    # - identifier: about
-    #   name: About
-    #   url: /about/
-    #   weight: 10
     - identifier: posts
       name: Posts
       url: /posts/
