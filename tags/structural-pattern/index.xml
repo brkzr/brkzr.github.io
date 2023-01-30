@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Notes on Burak Özer</title>
-    <link>https://burakozer.com/notes/</link>
-    <description>Recent content in Notes on Burak Özer</description>
+    <title>structural pattern on Burak Özer</title>
+    <link>https://burakozer.com/tags/structural-pattern/</link>
+    <description>Recent content in structural pattern on Burak Özer</description>
     <image>
       <url>https://burakozer.com/burak_ozer.png</url>
       <link>https://burakozer.com/burak_ozer.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 27 Jan 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jan 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/tags/structural-pattern/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adapter Design Pattern</title>
       <link>https://burakozer.com/notes/adaptor-pattern/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://burakozer.com/notes/adaptor-pattern/</guid>
       <description>Adapter Design Pattern</description>
-    </item>
-    
-    <item>
-      <title>Linux CLI Cheat Sheet</title>
-      <link>https://burakozer.com/notes/linux/</link>
-      <pubDate>Sun, 15 Jan 2023 12:00:00 +0000</pubDate>
-      
-      <guid>https://burakozer.com/notes/linux/</guid>
-      <description>Linux CLI Cheat Sheet</description>
     </item>
     
   </channel>

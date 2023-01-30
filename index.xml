@@ -9,14 +9,23 @@
       <link>https://burakozer.com/burak_ozer.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 15 Jan 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jan 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Linux CLI Tips</title>
+      <title>Adapter Design Pattern</title>
+      <link>https://burakozer.com/notes/adaptor-pattern/</link>
+      <pubDate>Fri, 27 Jan 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://burakozer.com/notes/adaptor-pattern/</guid>
+      <description>Adapter Design Pattern</description>
+    </item>
+    
+    <item>
+      <title>Linux CLI Cheat Sheet</title>
       <link>https://burakozer.com/notes/linux/</link>
       <pubDate>Sun, 15 Jan 2023 12:00:00 +0000</pubDate>
       
       <guid>https://burakozer.com/notes/linux/</guid>
-      <description>Linux CLI Tips</description>
+      <description>Linux CLI Cheat Sheet</description>
     </item>
     
     <item>

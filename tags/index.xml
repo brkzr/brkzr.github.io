@@ -9,7 +9,43 @@
       <link>https://burakozer.com/burak_ozer.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 15 Jan 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jan 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>csharp</title>
+      <link>https://burakozer.com/tags/csharp/</link>
+      <pubDate>Fri, 27 Jan 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://burakozer.com/tags/csharp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pattern</title>
+      <link>https://burakozer.com/tags/pattern/</link>
+      <pubDate>Fri, 27 Jan 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://burakozer.com/tags/pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>structural pattern</title>
+      <link>https://burakozer.com/tags/structural-pattern/</link>
+      <pubDate>Fri, 27 Jan 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://burakozer.com/tags/structural-pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CheatSheet</title>
+      <link>https://burakozer.com/tags/cheatsheet/</link>
+      <pubDate>Sun, 15 Jan 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://burakozer.com/tags/cheatsheet/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CLI</title>
       <link>https://burakozer.com/tags/cli/</link>
