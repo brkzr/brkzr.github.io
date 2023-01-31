@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Burak Özer
+  title: Burak Özer (brkzr) | burakozer.com 
   description: "A man who is a software engineer, tech enthusiast and lifelong student"
   keywords: [burak ozer,burak özer,brkzr,buraközer,burakozer,engineer,computer science,ytu,itu,blog,notes,tech,bio,personal blog,personal notes]
   author: Brkzr
@@ -88,6 +88,8 @@ params:
       url: "https://open.spotify.com/user/burak.ozer"
     - name: instagram
       url: "https://instagram.com/brkzr"
+    - name: unsplash
+      url: "https://unsplash.com/brkzr"
     - name: email
       url: "mailto:burak.ozerr@gmail.com"
 
