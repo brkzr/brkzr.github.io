@@ -16,9 +16,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Burak Özer (brkzr) | burakozer.com 
+  title: Burak Özer (brkzr) | burakozer.com
   description: "A man who is a software engineer, tech enthusiast and lifelong student"
-  keywords: [burak ozer,burak özer,brkzr,buraközer,burakozer,engineer,computer science,ytu,itu,blog,notes,tech,bio,personal blog,personal notes]
+  keywords: [burak ozer,burak özer,brkzr,buraközer,burakozer,engineer,computer science,ytu,itu,blog,notes,tech,bio,personal blog,personal notes,software engineer,devops]
   author: Brkzr
   # author: ["Me", "You"] # multiple authors
   images: ["burak_ozer.png"]
