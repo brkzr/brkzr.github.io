@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>pattern on Burak Özer (brkzr) | burakozer.com</title>
-    <link>https://burakozer.com/tags/pattern/</link>
-    <description>Recent content in pattern on Burak Özer (brkzr) | burakozer.com</description>
+    <title>creational pattern on Burak Özer (brkzr) | burakozer.com</title>
+    <link>https://burakozer.com/tags/creational-pattern/</link>
+    <description>Recent content in creational pattern on Burak Özer (brkzr) | burakozer.com</description>
     <image>
       <url>https://burakozer.com/burak_ozer.png</url>
       <link>https://burakozer.com/burak_ozer.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Feb 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/tags/pattern/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://burakozer.com/tags/creational-pattern/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Factory Design Pattern</title>
       <link>https://burakozer.com/notes/factory-pattern/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://burakozer.com/notes/factory-pattern/</guid>
       <description>Factory Design Pattern</description>
-    </item>
-    
-    <item>
-      <title>Adapter Design Pattern</title>
-      <link>https://burakozer.com/notes/adaptor-pattern/</link>
-      <pubDate>Fri, 27 Jan 2023 12:00:00 +0000</pubDate>
-      
-      <guid>https://burakozer.com/notes/adaptor-pattern/</guid>
-      <description>Adapter Design Pattern</description>
     </item>
     
   </channel>

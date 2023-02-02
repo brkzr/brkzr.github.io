@@ -2,12 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://burakozer.com/notes/adaptor-pattern/</loc>
-    <lastmod>2023-01-27T12:00:00+00:00</lastmod>
+    <loc>https://burakozer.com/</loc>
+    <lastmod>2023-02-02T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://burakozer.com/</loc>
+    <loc>https://burakozer.com/tags/creational-pattern/</loc>
+    <lastmod>2023-02-02T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://burakozer.com/notes/factory-pattern/</loc>
+    <lastmod>2023-02-02T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://burakozer.com/tags/go/</loc>
+    <lastmod>2023-02-02T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://burakozer.com/notes/</loc>
+    <lastmod>2023-02-02T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://burakozer.com/tags/pattern/</loc>
+    <lastmod>2023-02-02T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://burakozer.com/tags/</loc>
+    <lastmod>2023-02-02T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://burakozer.com/notes/adaptor-pattern/</loc>
     <lastmod>2023-01-27T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -17,22 +47,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://burakozer.com/notes/</loc>
-    <lastmod>2023-01-27T12:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://burakozer.com/tags/pattern/</loc>
-    <lastmod>2023-01-27T12:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://burakozer.com/tags/structural-pattern/</loc>
-    <lastmod>2023-01-27T12:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://burakozer.com/tags/</loc>
     <lastmod>2023-01-27T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
