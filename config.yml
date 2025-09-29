@@ -108,12 +108,11 @@ params:
     - name: email
       url: "mailto:burak.ozerr@gmail.com"
 
-  params:
-    social:
-      - name: github
-        url: "https://github.com/brkzr"
-      - name: twitter
-        url: "https://twitter.com/brkzr" 
+  social:
+    - name: github
+      url: "https://github.com/brkzr"
+    - name: twitter
+      url: "https://twitter.com/brkzr" 
 
   cover:
     hidden: true # hide everywhere but not in structured data
