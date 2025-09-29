@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VScode on Burak Özer (brkzr) | burakozer.com</title>
+    <link>http://localhost:1313/tags/vscode/</link>
+    <description>Recent content in VScode on Burak Özer (brkzr) | burakozer.com</description>
+    <image>
+      <title>Burak Özer (brkzr) | burakozer.com</title>
+      <url>http://localhost:1313/burak_ozer.png</url>
+      <link>http://localhost:1313/burak_ozer.png</link>
+    </image>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en</language>
+    <copyright>2025 · Brkzr</copyright>
+    <lastBuildDate>Thu, 11 Apr 2019 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raspbian&#39;a Visual Studio Code Kurulumu</title>
+      <link>http://localhost:1313/posts/vs-code-on-raspbian/</link>
+      <pubDate>Thu, 11 Apr 2019 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vs-code-on-raspbian/</guid>
+      <description>Installing VS Code on Raspbian</description>
+    </item>
+  </channel>
+</rss>
