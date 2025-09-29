@@ -1,18 +1,30 @@
 baseURL: "https://burakozer.com"
 title: Burak Özer (brkzr) | burakozer.com 
-paginate: 5
-theme: PaperMod
+copyright: "© 2025 · [Brkzr](https://burakozer.com)"
+theme: [PaperMod]
 
+enableInklineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
-googleAnalytics: G-VF2RFGF9BT
+enableEmoji: true
+#mainsections: ["posts", "papermod"]
 
 minify:
   disableXML: true
   minifyOutput: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -28,6 +40,9 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
+
+  # disableSpecial1stPost: true
+  # displayFullLangName: true
   ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -144,7 +159,14 @@ markup:
         # noClasses: false
         style: monokai
 
-disqusShortname: brkzr
+services:
+  disqus:
+    shortname: brkzr
+    disable: false
+  googleAnalytics:
+    id: G-VF2RFGF9BT
+    disable: false
+    respectDoNotTrack: false
 
 sitemap:
   changefreq: weekly

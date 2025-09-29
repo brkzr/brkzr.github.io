@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Burak Özer (brkzr) | burakozer.com</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Burak Özer (brkzr) | burakozer.com</description>
+    <image>
+      <title>Burak Özer (brkzr) | burakozer.com</title>
+      <url>http://localhost:1313/burak_ozer.png</url>
+      <link>http://localhost:1313/burak_ozer.png</link>
+    </image>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en</language>
+    <copyright>2025 · Brkzr</copyright>
+    <lastBuildDate>Thu, 02 Feb 2023 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creational Pattern</title>
+      <link>http://localhost:1313/tags/creational-pattern/</link>
+      <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/creational-pattern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1313/tags/go/</link>
+      <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pattern</title>
+      <link>http://localhost:1313/tags/pattern/</link>
+      <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pattern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Csharp</title>
+      <link>http://localhost:1313/tags/csharp/</link>
+      <pubDate>Fri, 27 Jan 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/csharp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Structural Pattern</title>
+      <link>http://localhost:1313/tags/structural-pattern/</link>
+      <pubDate>Fri, 27 Jan 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/structural-pattern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CheatSheet</title>
+      <link>http://localhost:1313/tags/cheatsheet/</link>
+      <pubDate>Sun, 15 Jan 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cheatsheet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CLI</title>
+      <link>http://localhost:1313/tags/cli/</link>
+      <pubDate>Sun, 15 Jan 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Sun, 15 Jan 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Fri, 30 Dec 2022 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>http://localhost:1313/tags/tools/</link>
+      <pubDate>Thu, 11 Apr 2019 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VScode</title>
+      <link>http://localhost:1313/tags/vscode/</link>
+      <pubDate>Thu, 11 Apr 2019 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vscode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>http://localhost:1313/tags/general/</link>
+      <pubDate>Mon, 03 Dec 2018 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/general/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

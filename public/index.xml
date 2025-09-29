@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Burak Özer (brkzr) | burakozer.com</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Burak Özer (brkzr) | burakozer.com</description>
+    <image>
+      <title>Burak Özer (brkzr) | burakozer.com</title>
+      <url>http://localhost:1313/burak_ozer.png</url>
+      <link>http://localhost:1313/burak_ozer.png</link>
+    </image>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en</language>
+    <copyright>2025 · Brkzr</copyright>
+    <lastBuildDate>Thu, 02 Feb 2023 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Factory Design Pattern</title>
+      <link>http://localhost:1313/notes/factory-pattern/</link>
+      <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/factory-pattern/</guid>
+      <description>Factory Design Pattern</description>
+    </item>
+    <item>
+      <title>Adapter Design Pattern</title>
+      <link>http://localhost:1313/notes/adaptor-pattern/</link>
+      <pubDate>Fri, 27 Jan 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/adaptor-pattern/</guid>
+      <description>Adapter Design Pattern</description>
+    </item>
+    <item>
+      <title>Linux CLI Cheat Sheet</title>
+      <link>http://localhost:1313/notes/linux/</link>
+      <pubDate>Sun, 15 Jan 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/linux/</guid>
+      <description>Linux CLI Cheat Sheet</description>
+    </item>
+    <item>
+      <title>Docker CLI Cheat Sheet</title>
+      <link>http://localhost:1313/notes/docker-cheatsheet/</link>
+      <pubDate>Fri, 30 Dec 2022 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/docker-cheatsheet/</guid>
+      <description>Docker CLI Cheat Sheet</description>
+    </item>
+    <item>
+      <title>Raspbian&#39;a Visual Studio Code Kurulumu</title>
+      <link>http://localhost:1313/posts/vs-code-on-raspbian/</link>
+      <pubDate>Thu, 11 Apr 2019 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vs-code-on-raspbian/</guid>
+      <description>Installing VS Code on Raspbian</description>
+    </item>
+    <item>
+      <title>Merhaba Dünya!</title>
+      <link>http://localhost:1313/posts/merhaba-dunya/</link>
+      <pubDate>Mon, 03 Dec 2018 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/merhaba-dunya/</guid>
+      <description>Merhaba Dunya</description>
+    </item>
+    <item>
+      <title>Hakkımda</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>about</description>
+    </item>
+  </channel>
+</rss>
