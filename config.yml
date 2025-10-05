@@ -93,17 +93,17 @@ params:
   #   Content: "A man who is a software engineer, tech enthusiast and lifelong student.\nYou can reach me through social media accounts and email"
 
   socialIcons:
-    - name: github
+    - name: "github"
       url: "https://github.com/brkzr"
-    - name: x
+    - name: "x"
       url: "https://x.com/brkzr"
-    - name: linkedin
+    - name: "linkedin"
       url: "https://linkedin.com/in/brkzr"
-    - name: spotify
+    - name: "spotify"
       url: "https://open.spotify.com/user/burak.ozer"
-    - name: instagram
+    - name: "instagram"
       url: "https://instagram.com/brkzr"
-    - name: email
+    - name: "email"
       url: "mailto:burak.ozerr@gmail.com"
 
   cover:
