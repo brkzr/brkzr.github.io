@@ -95,16 +95,14 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/brkzr"
-    - name: twitter
-      url: "https://twitter.com/brkzr"
+    - name: x
+      url: "https://x.com/brkzr"
     - name: linkedin
       url: "https://linkedin.com/in/brkzr"
     - name: spotify
       url: "https://open.spotify.com/user/burak.ozer"
     - name: instagram
       url: "https://instagram.com/brkzr"
-    - name: unsplash
-      url: "https://unsplash.com/brkzr"
     - name: email
       url: "mailto:burak.ozerr@gmail.com"
 
